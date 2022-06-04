@@ -1,0 +1,10 @@
+body{
+    font-family: Cambria;
+    color:  #cef0ef;
+}
+
+fieldset {
+    font-size: 1em;
+    color: #b5e6dc;
+    border-radius: 5px;
+}
